@@ -8,7 +8,7 @@
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
-		7777777777777777777
+
         <tr>
             <td width="1007" bgcolor="#FFFFFF">
                 <img src="images/map.gif">
@@ -17,7 +17,7 @@
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อ</li>
+				<li><a href="contact.php">ติดต่อ555555555555555555555</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
